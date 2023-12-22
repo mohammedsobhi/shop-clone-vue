@@ -6,7 +6,7 @@
     <!-- <MainSection/> -->
   </div>
 </template>
-
+<!-- new line -->
 <script>
 // import SideNav from "../components/SideNav.vue"
 // import HeaderSection from "../components/HeaderSection.vue"
